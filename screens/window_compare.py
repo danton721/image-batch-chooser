@@ -24,7 +24,7 @@ def start(image1, image2, count=None):
         layout_select.insert(0, [sg.Text(f"Image {count[0]} of {count[1]} ({percent:.2f}%).", justification="center", size=(100, 1))])
 
     # Create the window
-    window = sg.Window("Select folder", layout_select, return_keyboard_events=True, finalize=True)
+    window = sg.Window("Select image", layout_select, return_keyboard_events=True, finalize=True)
 
     # Start variables
     startup = True
