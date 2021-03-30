@@ -10,7 +10,7 @@ Use arrow keys (or buttons) to select between two images, after that, a copy of 
 
 ![image](https://user-images.githubusercontent.com/2263053/112924575-c2cc9f80-90e6-11eb-95cc-50225131d917.png)
 
-## How to run
+## How to Run
 
 Install requirements (first time only)
 ```
