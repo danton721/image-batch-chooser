@@ -1,6 +1,6 @@
 # Batch Image Chooser
 
-Python GUI to select images with same name from two folders, good for selecting between two images after batch processing.
+Python3 GUI to select images with same name from two folders, good for selecting between two images after batch processing.
 
 Select folder 1 and folder 2 to compare, and output folder to copy selected image to this folder.
 
@@ -12,12 +12,14 @@ Use arrow keys (or buttons) to select between two images, after that, a copy of 
 
 ## How to run
 
+Install requirements (first time only)
 ```
-# Install requirements (run first time only)
-python -m pip install -r requirements.txt
+python3 -m pip install -r requirements.txt
+```
 
-# Run GUI
-python main.py
+Run program
+```
+python3 main.py
 ```
 
 ## TO-DO
