@@ -24,5 +24,5 @@ python3 main.py
 
 ## TO-DO
 
-[ ] Enhancements on PIL image resizing, process taking long to complete
-[ ] Test other image formats, now allowing only PNG and JPG because that's what I needed it for
+- [ ] Enhancements on PIL image resizing, process taking long to complete
+- [ ] Test other image formats, now allowing only PNG and JPG because that's what I needed it for
