@@ -22,7 +22,8 @@ Run program
 python3 main.py
 ```
 
-## TO-DO
+## TO-DO - Not looking forward to implement as no longer needed
 
 - [ ] Enhancements on PIL image resizing, process taking long to complete
-- [ ] Test other image formats, now allowing only PNG and JPG because that's what I needed it for
+- [ ] Test other image formats, now allowing only PNG and JPG because that's what I needed it for.
+- [ ] Issue with first image being in different format than second image (comparing JPG and PNG). It will simply disregard as it doesn't find a pair.
